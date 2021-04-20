@@ -1,6 +1,7 @@
 # SincronizacaoReceitaFederal
 desafio avenuecode-sicredi
 
+OBS: O .JAR ESTA GERADO JA NA PASTA INSTRUÇÕES BASTA EXECUTA-LO.
 
 Para executar a aplicação conforme escrito na especificação:
 Exemplo testado em minha maquina Sistema Operacional Windows;
